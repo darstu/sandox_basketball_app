@@ -82,6 +82,7 @@ public class MainActivity extends AppCompatActivity {
         displayForTeamB(scoreB);
     }
 
+
     /**
      * Resets A and B scores.
      */
